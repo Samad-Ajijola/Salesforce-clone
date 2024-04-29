@@ -182,30 +182,30 @@ body {
   margin-left: 20px;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
   border-radius: 10px;
-  -webkit-border-radius:;
-  -moz-border-radius:;
-  -ms-border-radius:;
-  -o-border-radius:;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
 }
 
 .grid1b {
   height: 450px;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
   border-radius: 10px;
-  -webkit-border-radius:;
-  -moz-border-radius:;
-  -ms-border-radius:;
-  -o-border-radius:;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
 }
 
 .grid1c {
   height: 450px;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
   border-radius: 10px;
-  -webkit-border-radius:;
-  -moz-border-radius:;
-  -ms-border-radius:;
-  -o-border-radius:;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
 }
 
 .grid1d {
@@ -213,10 +213,10 @@ body {
   margin-right: 20px;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
   border-radius: 10px;
-  -webkit-border-radius:;
-  -moz-border-radius:;
-  -ms-border-radius:;
-  -o-border-radius:;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
 }
 
 .grid1aa {
@@ -225,10 +225,10 @@ body {
   background-size: contain;
   background-repeat: no-repeat;
   border-radius: 20px;
-  -webkit-border-radius:;
-  -moz-border-radius:;
-  -ms-border-radius:;
-  -o-border-radius:;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
 }
 
 .grid1ab {
